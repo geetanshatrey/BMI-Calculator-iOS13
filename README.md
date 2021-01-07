@@ -1,27 +1,23 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<p align="center">
+    <img src="Documentation/Logo.png" height="400">
+</p>
 
 #  BMI Calculator
 
-## Our Goal
+## What is it ?
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
-
-## What you will create
-
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
-
-## What you will learn
-
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
+* It is a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+* It is implemented using Swift5 and XCode. 
+* Use of UI elements such as Labels and Buttons and changing them programmatically. 
+* Use of MVC (Model-View-Controller) design pattern. 
+* Implementation of Swift Struct and Classes.
 
 
+## App Screenshots
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+ | <img src="Documentation/HomeScreen.png" width="250" height="500"> (Home Screen) | <img src="Documentation/SettingValues.png" width="250" height="500"> (Setting Values) | <img src="Documentation/CardScreen.png" width="250" height="500"> (Card Screen)|
+ |:---:|:---:|:---:|
+ 
+ |<img src="Documentation/UnderfitScreen.png" width="250" height="500"> (Underfit Screen) |<img src="Documentation/FitScreen.png" width="250" height="500"> (Fit Screen) |<img src="Documentation/UnfitScreen.png" width="250" height="500"> (Unfit Screen) | 
+ |:---:|:---:|:---:|
 
-![End Banner](Documentation/readme-end-banner.png)
